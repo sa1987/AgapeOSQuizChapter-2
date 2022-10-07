@@ -3,7 +3,7 @@
       "question": "Which of these claims about open data is NOT true?",
       "choice1": "Data can be accessed and shared.",
       "choice2": "Data that can be accessed and reused by anyone for any purpose without technical or legal restrictions.",
-	  "choice3": "Data can be reused free of charge.",
+      "choice3": "Data can be reused free of charge.",
       "choice4": "Data can be sold to other interested parties, such as the statistical bureau.",
       "answer": 4
     },
@@ -27,7 +27,7 @@
       "question": "For which type of open access is the author NOT expected to cover the publishing cost?",
       "choice1": "Diamond or platinum open access",
       "choice2": "Gold open access",
-	  "choice3": "Bronze open access",
+      "choice3": "Bronze open access",
       "choice4": "Hybrid open access",
       "answer": 1
     },
