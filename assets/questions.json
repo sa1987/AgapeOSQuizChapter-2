@@ -8,7 +8,7 @@
       "answer": 4
     },
     {
-      "question": "According to the Open science monitor of the European Commission, what are the main pillars of open science?",
+      "question": "According to the Open science monitor of the European Commission, what is NOT one of the main pillars of open science?",
       "choice1": "Open scholarly community",
       "choice2": "Open access to publications",
       "choice3": "Open intellectual property rights",
@@ -32,7 +32,7 @@
       "answer": 1
     },
     {
-      "question": "Which of these benefits does open access bring?",
+      "question": "Which of these benefits open access does NOT bring?",
       "choice1": "Application of your findings by practitioners and policy makers",
       "choice2": "Researchers in developing countries have access to your work",
       "choice3": "Your research gets more exposure and increases chance of getting future funding",
